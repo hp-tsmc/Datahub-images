@@ -1,0 +1,1 @@
+FROM acryldata/datahub-mce-consumer:v0.13.2

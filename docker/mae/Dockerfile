@@ -1,0 +1,1 @@
+FROM acryldata/datahub-mae-consumer:v0.13.2

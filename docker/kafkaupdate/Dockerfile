@@ -1,0 +1,1 @@
+FROM hpdevelop/kafkaupdates:v0.13.2-fix4
